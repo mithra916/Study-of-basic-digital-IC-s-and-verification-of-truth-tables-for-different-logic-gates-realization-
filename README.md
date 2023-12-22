@@ -63,16 +63,20 @@ Program to verify the truth table in quartus for the basic logic gates using Ver
 Developed by: 
 RegisterNumber:  
 */
+
 ![image](https://github.com/mithra916/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149986612/b4845e24-281b-484e-a493-c15c0176ebf0)
 
 Logic symbol & Truthtable
+
 ![image](https://github.com/mithra916/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149986612/4fbec80e-0d9f-4fb4-868c-4b4043a0543e)
 
 RTL realization
+
 ![image](https://github.com/mithra916/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149986612/15d56834-9d1a-4a0d-b0c1-a968d4d924de)
 
 Output:
 RTL
+
 ![Logicgates EX NO 1](https://github.com/mithra916/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149986612/62d90b5e-c165-4745-8e66-0352813a5bd8)
 
 Result:
