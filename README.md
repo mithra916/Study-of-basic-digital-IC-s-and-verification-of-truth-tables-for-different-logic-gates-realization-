@@ -1,3 +1,6 @@
+#NAME:R.LOGA MITHRA
+#REGISTER NUMBER:212223100027
+
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
  AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
@@ -60,9 +63,6 @@ Check all the gates following the same procedure.
 #PROGRAM:
 ```
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-
-Developed by: R.LOGA MITHRA
-RegisterNumber:212223100027
 
 module Verificationoflogicgatres(a,b,y1,y2,y3,y4,y5,y6,y7,y8);
 input a,b;
