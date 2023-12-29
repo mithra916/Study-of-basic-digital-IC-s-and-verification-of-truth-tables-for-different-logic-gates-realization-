@@ -1,5 +1,6 @@
-#NAME:R.LOGA MITHRA
-#REGISTER NUMBER:212223100027
+# NAME:R.LOGA MITHRA
+
+# REGISTER NUMBER:212223100027
 
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
  AIM:
